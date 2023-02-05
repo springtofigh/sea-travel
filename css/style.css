@@ -262,7 +262,7 @@ i {
 
 .image-right {
     grid-column: 1/4;
-    grid-row: 1/ span 10;
+    grid-row: 3/ span 10;
     z-index: 5;
 }
 
@@ -273,7 +273,7 @@ i {
 
 .image-left {
     grid-column: 5/-1;
-    grid-row: 3/ span 10;
+    grid-row: 1/ span 10;
     z-index: 5;
 }
 
