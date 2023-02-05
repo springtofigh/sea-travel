@@ -71,6 +71,7 @@ img {
 i {
     font-size: var(--margin-md);
 }
+
 /* Reusable */
 .container {
     max-width: 116rem;
@@ -146,14 +147,14 @@ i {
 .list {
     display: flex;
     flex-direction: column;
-    gap: var(--margin-sm);
+    gap: var(--margin-md);
 }
 
-.list-item {
+.list-link {
     position: relative;
 }
 
-.list-item::after,
+.list-link::after,
 .list-link.current::after {
     content: '';
     position: absolute;
@@ -172,7 +173,7 @@ i {
     opacity: 1 !important;
 }
 
-.list-link.current:hover::after {
+.list-link:hover::after {
     opacity: 1;
 }
 
