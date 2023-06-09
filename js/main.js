@@ -34,6 +34,16 @@ navLinks.forEach(link => link.addEventListener('click' , () => {
     link.className += " current"
 }));
 
+// const navbar = document.querySelector('.navbar');
+document.addEventListener('click', (event) => {
+  if (!navMobile.contains(event.target)) {
+    // click target is outside the Navbar
+    navMobile.classList.remove('active');
+    headerElement.classList.remove('active')
+  }
+});
+
+
 // Scroll Reveal
 const scroll = ScrollReveal({
         distance: '25px',
