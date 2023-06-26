@@ -4,15 +4,15 @@
 
 A fully responsive website about Iran's tourist beaches.
 
-[![دریا سو-1](https://i.im.ge/2023/05/21/hXUEof.1.png)](https://im.ge/i/hXUEof)
+![دریا سو-1](https://github.com/springtofigh/sea-travel/assets/90114320/c8582343-6172-4498-a5f4-d17c01fa7e42)
 
 ## Screenshots
 
-[![دریا سو-2](https://i.im.ge/2023/05/21/hXUAZ1.2.png)](https://im.ge/i/hXUAZ1)
+![دریا سو-2](https://github.com/springtofigh/sea-travel/assets/90114320/d244ab23-11f0-47a1-9603-9518148bd655)
 
 
 
-## Technologies that I use in this peoject
+## Technologies that I use in this project
 
 ✴ HTML
 
